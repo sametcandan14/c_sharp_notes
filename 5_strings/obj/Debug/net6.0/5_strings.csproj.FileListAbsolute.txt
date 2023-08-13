@@ -1,0 +1,15 @@
+/home/sc/Desktop/dotnet/5_strings/obj/Debug/net6.0/5_strings.csproj.AssemblyReference.cache
+/home/sc/Desktop/dotnet/5_strings/obj/Debug/net6.0/5_strings.GeneratedMSBuildEditorConfig.editorconfig
+/home/sc/Desktop/dotnet/5_strings/obj/Debug/net6.0/5_strings.AssemblyInfoInputs.cache
+/home/sc/Desktop/dotnet/5_strings/obj/Debug/net6.0/5_strings.AssemblyInfo.cs
+/home/sc/Desktop/dotnet/5_strings/obj/Debug/net6.0/5_strings.csproj.CoreCompileInputs.cache
+/home/sc/Desktop/dotnet/5_strings/bin/Debug/net6.0/5_strings
+/home/sc/Desktop/dotnet/5_strings/bin/Debug/net6.0/5_strings.deps.json
+/home/sc/Desktop/dotnet/5_strings/bin/Debug/net6.0/5_strings.runtimeconfig.json
+/home/sc/Desktop/dotnet/5_strings/bin/Debug/net6.0/5_strings.dll
+/home/sc/Desktop/dotnet/5_strings/bin/Debug/net6.0/5_strings.pdb
+/home/sc/Desktop/dotnet/5_strings/obj/Debug/net6.0/5_strings.dll
+/home/sc/Desktop/dotnet/5_strings/obj/Debug/net6.0/refint/5_strings.dll
+/home/sc/Desktop/dotnet/5_strings/obj/Debug/net6.0/5_strings.pdb
+/home/sc/Desktop/dotnet/5_strings/obj/Debug/net6.0/5_strings.genruntimeconfig.cache
+/home/sc/Desktop/dotnet/5_strings/obj/Debug/net6.0/ref/5_strings.dll
