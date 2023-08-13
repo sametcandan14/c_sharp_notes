@@ -1,0 +1,15 @@
+/home/sc/Desktop/dotnet/7_arrays/bin/Debug/net6.0/7_arrays
+/home/sc/Desktop/dotnet/7_arrays/bin/Debug/net6.0/7_arrays.deps.json
+/home/sc/Desktop/dotnet/7_arrays/bin/Debug/net6.0/7_arrays.runtimeconfig.json
+/home/sc/Desktop/dotnet/7_arrays/bin/Debug/net6.0/7_arrays.dll
+/home/sc/Desktop/dotnet/7_arrays/bin/Debug/net6.0/7_arrays.pdb
+/home/sc/Desktop/dotnet/7_arrays/obj/Debug/net6.0/7_arrays.csproj.AssemblyReference.cache
+/home/sc/Desktop/dotnet/7_arrays/obj/Debug/net6.0/7_arrays.GeneratedMSBuildEditorConfig.editorconfig
+/home/sc/Desktop/dotnet/7_arrays/obj/Debug/net6.0/7_arrays.AssemblyInfoInputs.cache
+/home/sc/Desktop/dotnet/7_arrays/obj/Debug/net6.0/7_arrays.AssemblyInfo.cs
+/home/sc/Desktop/dotnet/7_arrays/obj/Debug/net6.0/7_arrays.csproj.CoreCompileInputs.cache
+/home/sc/Desktop/dotnet/7_arrays/obj/Debug/net6.0/7_arrays.dll
+/home/sc/Desktop/dotnet/7_arrays/obj/Debug/net6.0/refint/7_arrays.dll
+/home/sc/Desktop/dotnet/7_arrays/obj/Debug/net6.0/7_arrays.pdb
+/home/sc/Desktop/dotnet/7_arrays/obj/Debug/net6.0/7_arrays.genruntimeconfig.cache
+/home/sc/Desktop/dotnet/7_arrays/obj/Debug/net6.0/ref/7_arrays.dll

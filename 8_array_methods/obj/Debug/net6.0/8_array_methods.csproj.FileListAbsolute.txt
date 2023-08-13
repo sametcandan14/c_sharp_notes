@@ -1,0 +1,15 @@
+/home/sc/Desktop/dotnet/8_array_methods/bin/Debug/net6.0/8_array_methods
+/home/sc/Desktop/dotnet/8_array_methods/bin/Debug/net6.0/8_array_methods.deps.json
+/home/sc/Desktop/dotnet/8_array_methods/bin/Debug/net6.0/8_array_methods.runtimeconfig.json
+/home/sc/Desktop/dotnet/8_array_methods/bin/Debug/net6.0/8_array_methods.dll
+/home/sc/Desktop/dotnet/8_array_methods/bin/Debug/net6.0/8_array_methods.pdb
+/home/sc/Desktop/dotnet/8_array_methods/obj/Debug/net6.0/8_array_methods.csproj.AssemblyReference.cache
+/home/sc/Desktop/dotnet/8_array_methods/obj/Debug/net6.0/8_array_methods.GeneratedMSBuildEditorConfig.editorconfig
+/home/sc/Desktop/dotnet/8_array_methods/obj/Debug/net6.0/8_array_methods.AssemblyInfoInputs.cache
+/home/sc/Desktop/dotnet/8_array_methods/obj/Debug/net6.0/8_array_methods.AssemblyInfo.cs
+/home/sc/Desktop/dotnet/8_array_methods/obj/Debug/net6.0/8_array_methods.csproj.CoreCompileInputs.cache
+/home/sc/Desktop/dotnet/8_array_methods/obj/Debug/net6.0/8_array_methods.dll
+/home/sc/Desktop/dotnet/8_array_methods/obj/Debug/net6.0/refint/8_array_methods.dll
+/home/sc/Desktop/dotnet/8_array_methods/obj/Debug/net6.0/8_array_methods.pdb
+/home/sc/Desktop/dotnet/8_array_methods/obj/Debug/net6.0/8_array_methods.genruntimeconfig.cache
+/home/sc/Desktop/dotnet/8_array_methods/obj/Debug/net6.0/ref/8_array_methods.dll

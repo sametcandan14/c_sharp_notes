@@ -1,0 +1,15 @@
+/home/sc/Desktop/dotnet/6_string_methods/bin/Debug/net6.0/6_string_methods
+/home/sc/Desktop/dotnet/6_string_methods/bin/Debug/net6.0/6_string_methods.deps.json
+/home/sc/Desktop/dotnet/6_string_methods/bin/Debug/net6.0/6_string_methods.runtimeconfig.json
+/home/sc/Desktop/dotnet/6_string_methods/bin/Debug/net6.0/6_string_methods.dll
+/home/sc/Desktop/dotnet/6_string_methods/bin/Debug/net6.0/6_string_methods.pdb
+/home/sc/Desktop/dotnet/6_string_methods/obj/Debug/net6.0/6_string_methods.csproj.AssemblyReference.cache
+/home/sc/Desktop/dotnet/6_string_methods/obj/Debug/net6.0/6_string_methods.GeneratedMSBuildEditorConfig.editorconfig
+/home/sc/Desktop/dotnet/6_string_methods/obj/Debug/net6.0/6_string_methods.AssemblyInfoInputs.cache
+/home/sc/Desktop/dotnet/6_string_methods/obj/Debug/net6.0/6_string_methods.AssemblyInfo.cs
+/home/sc/Desktop/dotnet/6_string_methods/obj/Debug/net6.0/6_string_methods.csproj.CoreCompileInputs.cache
+/home/sc/Desktop/dotnet/6_string_methods/obj/Debug/net6.0/6_string_methods.dll
+/home/sc/Desktop/dotnet/6_string_methods/obj/Debug/net6.0/refint/6_string_methods.dll
+/home/sc/Desktop/dotnet/6_string_methods/obj/Debug/net6.0/6_string_methods.pdb
+/home/sc/Desktop/dotnet/6_string_methods/obj/Debug/net6.0/6_string_methods.genruntimeconfig.cache
+/home/sc/Desktop/dotnet/6_string_methods/obj/Debug/net6.0/ref/6_string_methods.dll
