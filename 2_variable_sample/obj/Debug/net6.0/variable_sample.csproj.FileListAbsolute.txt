@@ -1,0 +1,5 @@
+/home/sc/Desktop/dotnet/variable_sample/obj/Debug/net6.0/variable_sample.csproj.AssemblyReference.cache
+/home/sc/Desktop/dotnet/variable_sample/obj/Debug/net6.0/variable_sample.GeneratedMSBuildEditorConfig.editorconfig
+/home/sc/Desktop/dotnet/variable_sample/obj/Debug/net6.0/variable_sample.AssemblyInfoInputs.cache
+/home/sc/Desktop/dotnet/variable_sample/obj/Debug/net6.0/variable_sample.AssemblyInfo.cs
+/home/sc/Desktop/dotnet/variable_sample/obj/Debug/net6.0/variable_sample.csproj.CoreCompileInputs.cache

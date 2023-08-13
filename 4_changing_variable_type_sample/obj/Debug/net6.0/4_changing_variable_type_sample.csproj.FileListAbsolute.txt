@@ -1,0 +1,15 @@
+/home/sc/Desktop/dotnet/4_changing_variable_type_sample/bin/Debug/net6.0/4_changing_variable_type_sample
+/home/sc/Desktop/dotnet/4_changing_variable_type_sample/bin/Debug/net6.0/4_changing_variable_type_sample.deps.json
+/home/sc/Desktop/dotnet/4_changing_variable_type_sample/bin/Debug/net6.0/4_changing_variable_type_sample.runtimeconfig.json
+/home/sc/Desktop/dotnet/4_changing_variable_type_sample/bin/Debug/net6.0/4_changing_variable_type_sample.dll
+/home/sc/Desktop/dotnet/4_changing_variable_type_sample/bin/Debug/net6.0/4_changing_variable_type_sample.pdb
+/home/sc/Desktop/dotnet/4_changing_variable_type_sample/obj/Debug/net6.0/4_changing_variable_type_sample.csproj.AssemblyReference.cache
+/home/sc/Desktop/dotnet/4_changing_variable_type_sample/obj/Debug/net6.0/4_changing_variable_type_sample.GeneratedMSBuildEditorConfig.editorconfig
+/home/sc/Desktop/dotnet/4_changing_variable_type_sample/obj/Debug/net6.0/4_changing_variable_type_sample.AssemblyInfoInputs.cache
+/home/sc/Desktop/dotnet/4_changing_variable_type_sample/obj/Debug/net6.0/4_changing_variable_type_sample.AssemblyInfo.cs
+/home/sc/Desktop/dotnet/4_changing_variable_type_sample/obj/Debug/net6.0/4_changing_variable_type_sample.csproj.CoreCompileInputs.cache
+/home/sc/Desktop/dotnet/4_changing_variable_type_sample/obj/Debug/net6.0/4_changing_variable_type_sample.dll
+/home/sc/Desktop/dotnet/4_changing_variable_type_sample/obj/Debug/net6.0/refint/4_changing_variable_type_sample.dll
+/home/sc/Desktop/dotnet/4_changing_variable_type_sample/obj/Debug/net6.0/4_changing_variable_type_sample.pdb
+/home/sc/Desktop/dotnet/4_changing_variable_type_sample/obj/Debug/net6.0/4_changing_variable_type_sample.genruntimeconfig.cache
+/home/sc/Desktop/dotnet/4_changing_variable_type_sample/obj/Debug/net6.0/ref/4_changing_variable_type_sample.dll

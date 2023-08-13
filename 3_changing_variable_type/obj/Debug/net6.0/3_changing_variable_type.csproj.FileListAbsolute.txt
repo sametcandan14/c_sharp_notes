@@ -1,0 +1,15 @@
+/home/sc/Desktop/dotnet/3_changing_variable_type/bin/Debug/net6.0/3_changing_variable_type
+/home/sc/Desktop/dotnet/3_changing_variable_type/bin/Debug/net6.0/3_changing_variable_type.deps.json
+/home/sc/Desktop/dotnet/3_changing_variable_type/bin/Debug/net6.0/3_changing_variable_type.runtimeconfig.json
+/home/sc/Desktop/dotnet/3_changing_variable_type/bin/Debug/net6.0/3_changing_variable_type.dll
+/home/sc/Desktop/dotnet/3_changing_variable_type/bin/Debug/net6.0/3_changing_variable_type.pdb
+/home/sc/Desktop/dotnet/3_changing_variable_type/obj/Debug/net6.0/3_changing_variable_type.csproj.AssemblyReference.cache
+/home/sc/Desktop/dotnet/3_changing_variable_type/obj/Debug/net6.0/3_changing_variable_type.GeneratedMSBuildEditorConfig.editorconfig
+/home/sc/Desktop/dotnet/3_changing_variable_type/obj/Debug/net6.0/3_changing_variable_type.AssemblyInfoInputs.cache
+/home/sc/Desktop/dotnet/3_changing_variable_type/obj/Debug/net6.0/3_changing_variable_type.AssemblyInfo.cs
+/home/sc/Desktop/dotnet/3_changing_variable_type/obj/Debug/net6.0/3_changing_variable_type.csproj.CoreCompileInputs.cache
+/home/sc/Desktop/dotnet/3_changing_variable_type/obj/Debug/net6.0/3_changing_variable_type.dll
+/home/sc/Desktop/dotnet/3_changing_variable_type/obj/Debug/net6.0/refint/3_changing_variable_type.dll
+/home/sc/Desktop/dotnet/3_changing_variable_type/obj/Debug/net6.0/3_changing_variable_type.pdb
+/home/sc/Desktop/dotnet/3_changing_variable_type/obj/Debug/net6.0/3_changing_variable_type.genruntimeconfig.cache
+/home/sc/Desktop/dotnet/3_changing_variable_type/obj/Debug/net6.0/ref/3_changing_variable_type.dll
