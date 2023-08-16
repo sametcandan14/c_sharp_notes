@@ -1,0 +1,13 @@
+C:\Users\C_SAM\Desktop\c_sharp_notes\9_dateTime\bin\Debug\netcoreapp3.1\9_dateTime.exe
+C:\Users\C_SAM\Desktop\c_sharp_notes\9_dateTime\bin\Debug\netcoreapp3.1\9_dateTime.deps.json
+C:\Users\C_SAM\Desktop\c_sharp_notes\9_dateTime\bin\Debug\netcoreapp3.1\9_dateTime.runtimeconfig.json
+C:\Users\C_SAM\Desktop\c_sharp_notes\9_dateTime\bin\Debug\netcoreapp3.1\9_dateTime.runtimeconfig.dev.json
+C:\Users\C_SAM\Desktop\c_sharp_notes\9_dateTime\bin\Debug\netcoreapp3.1\9_dateTime.dll
+C:\Users\C_SAM\Desktop\c_sharp_notes\9_dateTime\bin\Debug\netcoreapp3.1\9_dateTime.pdb
+C:\Users\C_SAM\Desktop\c_sharp_notes\9_dateTime\obj\Debug\netcoreapp3.1\9_dateTime.csprojAssemblyReference.cache
+C:\Users\C_SAM\Desktop\c_sharp_notes\9_dateTime\obj\Debug\netcoreapp3.1\9_dateTime.AssemblyInfoInputs.cache
+C:\Users\C_SAM\Desktop\c_sharp_notes\9_dateTime\obj\Debug\netcoreapp3.1\9_dateTime.AssemblyInfo.cs
+C:\Users\C_SAM\Desktop\c_sharp_notes\9_dateTime\obj\Debug\netcoreapp3.1\9_dateTime.csproj.CoreCompileInputs.cache
+C:\Users\C_SAM\Desktop\c_sharp_notes\9_dateTime\obj\Debug\netcoreapp3.1\9_dateTime.dll
+C:\Users\C_SAM\Desktop\c_sharp_notes\9_dateTime\obj\Debug\netcoreapp3.1\9_dateTime.pdb
+C:\Users\C_SAM\Desktop\c_sharp_notes\9_dateTime\obj\Debug\netcoreapp3.1\9_dateTime.genruntimeconfig.cache
